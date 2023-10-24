@@ -1,0 +1,22 @@
+[
+    {
+        "ticker": "META",
+        "quantity": 150,
+        "price": 500
+    },
+    {
+        "ticker": "XYZ",
+        "quantity": 43,
+        "price": 10
+    },
+    {
+        "ticker": "AAPL",
+        "quantity": 160,
+        "price": 200
+    },
+    {
+        "ticker": "TSLA",
+        "quantity": 3,
+        "price": 300
+    }
+]
